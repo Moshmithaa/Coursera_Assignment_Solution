@@ -1,0 +1,29 @@
+button.navbar-toggler.navbar-toggler-right{
+    border-color: red;
+    background-color: grey;
+  }
+
+
+
+  .col-xs-12 {
+    border: 3px solid black;
+    margin: 40px;
+    padding: 20px;
+    background-color: lightgray;
+}
+
+
+a#item1:hover{
+  background: rgba(0, 0, 0, .6);
+  color: white;
+}
+
+a#item2:hover{
+  background: rgba(0, 0, 0, .6);
+  color: white;
+}
+
+a#item3:hover{
+  background: rgba(0, 0, 0, .6);
+  color: white;
+}
